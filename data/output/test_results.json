@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "timestamp": "2025-10-29T19:38:30.204Z",
+  "totalSocieties": 360,
+  "societiesScraped": 5,
+  "societiesWithEmails": 5,
+  "errors": [],
+  "societies": [
+    {
+      "name": "A Cappella",
+      "slug": "a-cappella",
+      "url": "https://www.imperialcollegeunion.org/activities/a-to-z/a-cappella",
+      "category": "Arts & Entertainment",
+      "email": "acappella@imperial.ac.uk",
+      "description": "The Imperielles (all-female, contemporary) The Scopes (mixed, contemporary) Take Note (all-female, barbershop) The Techtonics (all-male, contemporary) Surcery (mixed, fusion style) Nth Harmonic (mixed, contemporary/close harmony) All of these groups were founded within the past 14 years, and range in intensity and development. Activities undertaken by the groups include an all-expenses paid tour to Hong Kong (which included two performances to a sold-out 3500-seater stadium), appearing on TV shows, winning and placing highly at international competitions in NYC, semi-professional tours to all over America and Canada, celebrity-endorsed professional music videos, studio recorded albums, sell-out performances at the Edinburgh Fringe Festival, corporate backed flash mobs and much much more... but above all we love having fun with the society as a whole. If you would like to sign up for an audition or simply would like to find out more about the society, please visit our website: https://www.union.ic.ac.uk/arts/acappella/ our facebook page: www.facebook.com/ICUACappella/ our Instagram: @icacappella or send us an email: acappella@imperial.ac.uk CSP Chair / President",
+      "tagline": "Welcome to A Cappella",
+      "memberCount": null,
+      "committee": [],
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/icacappella",
+        "facebook": "https://www.facebook.com/ICUACappella",
+        "twitter": "https://www.twitter.com/acappellaIC",
+        "website": "https://www.youtube.com/channel/UCDbftdMxA8C-UqhaB8FsW5w"
+      }
+    },
+    {
+      "name": "ABACUS",
+      "slug": "abacus",
+      "url": "https://www.imperialcollegeunion.org/activities/a-to-z/abacus",
+      "category": "Cultural",
+      "email": "abacus@imperial.ac.uk",
+      "description": "We aim to bring together British and Chinese cultures with multiple events to cater for everyone - from hotpot and karaoke to ice skating and bowling. We plan exciting events throughout the year, such as celebrations for Chinese New Year, Christmas and so on! Being a part of the London ABACUS network allows us to host events at exclusive venues across the city alongside seven other universities. As a diverse society, our members range from BBCs (British Born Chinese) and any international students to anyone interested in Chinese culture. By joining ABACUS, you will also have access to discounts at an array of Chinese restaurants and cafés across London. So what are you waiting for? Join IC ABACUS today! For more information, check us out on Facebook (Imperial College ABACUS Facebook group) and Instagram (@ic_abacus). Send us a message on our Instagram to get signed up to our mailing list! CSP Chair / President CSP Vice Chair / President Communications / Publications Officer Events / Trips Officer",
+      "tagline": "Welcome to ABACUS",
+      "memberCount": null,
+      "committee": [],
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/ic_abacus",
+        "facebook": "https://www.facebook.com/groups/ICABACUS",
+        "twitter": "https://twitter.com/icunion",
+        "website": "https://www.youtube.com/channel/UCDbftdMxA8C-UqhaB8FsW5w"
+      }
+    },
+    {
+      "name": "Acute Care Specialities",
+      "slug": "acute-care-specialities",
+      "url": "https://www.imperialcollegeunion.org/activities/a-to-z/acute-care-specialities",
+      "category": "ICSM",
+      "email": "icaic@imperial.ac.uk",
+      "description": "We provide fantastic opportunities for students to gain insight into careers in the above-mentioned specialties through a variety of interactive and engaging events throughout the year, in collaboration with junior doctors and consultants. We are privileged to have the support of specialty experts who are passionate about improving understanding of careers in these exciting specialties. Popular events in the past year included practical skills workshops, specialty career talks, small group case-based tutorials, medical simulation sessions, a clinical skills mock OSCE and our annual national conference. Attending our events will help you to develop knowledge and skills useful for clinical practice, in addition to aiding exam preparation. If you are interested and want to learn more, please join our mailing list for information alerts about upcoming events: http://bit.do/ICAIC-newsletter Purchase annual membership for just £3. Membership gives you priority access and discounted entry to many of our events throughout the year! “Like” our Facebook page here: https://www.facebook.com/ICAnaesthetics?fref=ts “Follow” us on Twitter here: https://twitter.com/ImperialCAIC CSP Chair / President",
+      "tagline": "Welcome to Acute Care Specialities",
+      "memberCount": null,
+      "committee": [],
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/imperial_acute_care",
+        "facebook": "https://www.facebook.com/ImperialCAIC/",
+        "twitter": "https://www.twitter.com/imperialICAIC",
+        "website": "https://www.youtube.com/channel/UCDbftdMxA8C-UqhaB8FsW5w"
+      }
+    },
+    {
+      "name": "Aeronautics",
+      "slug": "aeronautics",
+      "url": "https://www.imperialcollegeunion.org/activities/a-to-z/aeronautics",
+      "category": "Departmental",
+      "email": "aerosoc@imperial.ac.uk",
+      "description": "AeroSoc is a community where aeronautics students and aerospace enthusiasts get together to enjoy eye-opening and fun events. As a member throughout the year, you'll get to participate in weekly career talks accompanied by some of the most reputable companies, and you'll have an opportunity to expand your relations with possible future employers. Last year, some of our guests were from Lockheed Martin, Aston Martin, Airbus, Rolls-Royce, Alpine Formula 1, British Airways, and Cathay Pacific... So don't forget to become a member and receive our weekly newsletter to stay up to date! Every year, we make sure that newcomers feel as welcomed as possible; thus, when you start the academic year, you'll be assigned aero parents who will follow you throughout the year as a part of the 'Mums & Dads program', providing you with guidance and support. This year, we'll be bringing the Alumni Mentors program so that our students can stay in contact with the graduating class, receive their recommendations, and benefit from their experience. Apart from our brilliant academically helpful plans, we’ll also have amazing socials to connect with each other closely like end-of-year boat party, Christmas dinner, and more... Remember to check out our Instagram page to get to know our society better! CSP Chair / President CSP Vice Chair / President Communications / Publications Officer Events / Trips Officer Events / Trips Officer Fundraiser / External Relations Officer",
+      "tagline": "Welcome to Aeronautics",
+      "memberCount": null,
+      "committee": [],
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/aerosocimperial",
+        "facebook": "https://www.facebook.com/imperialcollegeunion",
+        "twitter": "https://twitter.com/icunion",
+        "website": "https://www.youtube.com/channel/UCDbftdMxA8C-UqhaB8FsW5w"
+      }
+    },
+    {
+      "name": "African Caribbean",
+      "slug": "african-caribbean",
+      "url": "https://www.imperialcollegeunion.org/activities/a-to-z/african-caribbean",
+      "category": "Cultural",
+      "email": "afro.caribbean@imperial.ac.uk",
+      "description": "CSP Chair / President CSP Vice Chair / President Communications / Publications Officer Communications / Publications Officer Communications / Publications Officer Events / Trips Officer Events / Trips Officer",
+      "tagline": "Welcome to African Caribbean",
+      "memberCount": null,
+      "committee": [],
+      "socialMedia": {
+        "instagram": "https://www.instagram.com/imperial_acs",
+        "facebook": "https://www.facebook.com/ImperialCollegeAfricanCaribbeanSociety/",
+        "twitter": "https://www.twitter.com/ic_acs",
+        "website": "https://www.youtube.com/channel/UCDbftdMxA8C-UqhaB8FsW5w"
+      }
+    }
+  ]
+}
