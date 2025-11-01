@@ -8,16 +8,26 @@
     "test": "tsx src/test.ts",
     "test:pipeline": "tsx src/pipeline-test.ts",
     "pipeline": "tsx src/pipeline.ts",
+    "campaign": "tsx src/email-campaign.ts",
+    "recategorize": "tsx src/recategorize-lsn.ts",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint \"src/**/*.ts\""
   },
-  "keywords": ["scraper", "imperial", "societies", "email", "outreach"],
+  "keywords": [
+    "scraper",
+    "imperial",
+    "societies",
+    "email",
+    "outreach"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
+    "@sendgrid/mail": "^8.1.6",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^17.2.2",
+    "inquirer": "^12.10.0",
     "playwright": "^1.40.0",
     "uuid": "^9.0.1"
   },
